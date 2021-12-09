@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirB94
 - 👀 I’m interested in Computers, Music, Gaming, Comics, etc
-- 🌱 I’m currently learning Computer Science and Bioinformatics BsC
+- 🌱 I’m currently learning Computer Science and Bioinformatics BsC @ TAU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
