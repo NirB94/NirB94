@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NirB94
-- 👀 Enthusiast of Computers, Music, Gaming, Comics, and more
-- 🌱 Computer Science and Bioinformatics student @ TAU
-- 💞️ Collaboration on any compelling project, particularly those related to biology and economics
+- 🌱 Computer Science and Bioinformatics graduate (TAU)
+- 👀 Enthusiast about Computers, Music, Gaming, Comics, and more
 - 📫 You can find me at nir.borger5@gmail.com
 -  Thank you!
 
